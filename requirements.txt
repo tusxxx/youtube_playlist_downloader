@@ -1,0 +1,2 @@
+yt-dlp>=2023.12.30
+pathlib2>=2.3.7; python_version<"3.4" 
